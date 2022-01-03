@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gus1616
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning ...python, java, javascript, html, css
+- 🌱 I’m currently learning ...python, java, javascript, sql, html, css
 - 📫 How to reach me ...gus.boothman@gmail.com
 
 <!---

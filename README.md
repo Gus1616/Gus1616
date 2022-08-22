@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gus1616
 - 🌱 MSc in Computer Science, University College Dublin
-- 👀 I’m interested in computer science by way of psychology
+- 👀 Computer science by way of psychology
 - 🌱 I’m currently learning ...python, java, javascript, sql, Vue Js
 - 📫 How to reach me: https://www.linkedin.com/in/gus-boothman/
 

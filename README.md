@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gus1616
+- 👋 Hi, I’m @Gus1616 and I'm a data scientist
 - 🌱 MSc in Computer Science, University College Dublin
 - 👀 Computer science by way of psychology
 - 🌱 I’m currently learning ...ruby, java, javascript, sql, Vue Js
